@@ -34,7 +34,9 @@ body {
   font-weight: bold;
   line-height: 35px;
 }
-
+.h1:hover {
+  text-decoration: underline;
+}
 .m-0 {
   margin: 0 !important;
 }
@@ -52,7 +54,9 @@ body {
   font-size: 15px;
   font-weight: bold;
 }
-
+.h3:hover {
+  text-decoration: underline;
+}
 .op-8 {
   color: #555;
 }
